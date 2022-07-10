@@ -1,6 +1,6 @@
 {
   "name": "@ashkan-pm/eslint-plugin-next",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ESLint recommended configuration for Next.js",
   "main": "lib/index.js",
   "repository": {
@@ -21,7 +21,7 @@
     "prettier": "^2.6.2"
   },
   "peerDependencies": {
-    "@ashkan-pm/eslint-plugin-react": "^0.1.0",
+    "@ashkan-pm/eslint-plugin-react": "^0.1.1",
     "@next/eslint-plugin-next": "^12.1.5",
     "@typescript-eslint/eslint-plugin": "^5.21.0",
     "@typescript-eslint/parser": "^5.21.0",

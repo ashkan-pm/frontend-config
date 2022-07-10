@@ -1,6 +1,6 @@
 {
   "name": "@ashkan-pm/eslint-plugin-react",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ESLint recommended configuration for React",
   "main": "lib/index.js",
   "repository": {

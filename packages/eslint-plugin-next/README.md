@@ -4,13 +4,7 @@ ESLint recommended configuration for Next.js
 
 ## Installation
 
-You'll first need to install [ESLint](https://eslint.org/) and [@ashkan-pm/eslint-plugin-react](https://www.npmjs.com/package/@ashkan-pm/eslint-plugin-react/):
-
-```sh
-yarn add -D eslint @ashkan-pm/eslint-plugin-react
-```
-
-Next, install `@ashkan-pm/eslint-plugin-next`:
+First make sure you have all the peer dependencies installed, then install `@ashkan-pm/eslint-plugin-next`:
 
 ```sh
 yarn add -D @ashkan-pm/eslint-plugin-next

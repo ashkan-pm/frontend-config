@@ -4,13 +4,7 @@ ESLint recommended configuration for React
 
 ## Installation
 
-You'll first need to install [ESLint](https://eslint.org/):
-
-```sh
-yarn add -D eslint
-```
-
-Next, install `@ashkan-pm/eslint-plugin-react`:
+First make sure you have all the peer dependencies installed, then install `@ashkan-pm/eslint-plugin-react`:
 
 ```sh
 yarn add -D @ashkan-pm/eslint-plugin-react
