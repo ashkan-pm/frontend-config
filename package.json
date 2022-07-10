@@ -1,0 +1,13 @@
+{
+  "name": "@ashkan-pm/frontend-config",
+  "description": "Bunch of useful configs for popular frontend tooling libraries",
+  "packageManager": "yarn@3.2.1",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "format": "yarn workspaces foreach -vp run format",
+    "lint": "yarn workspaces foreach -vp run lint"
+  }
+}
